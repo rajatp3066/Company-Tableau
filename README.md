@@ -9,3 +9,6 @@ The 'Authorized Capital - Total (In Crores)' column presents the total authorize
 Using this data, a Tableau dashboard can be created that provides a clear visual representation of the number of public and private companies in each state of the region and their authorized capital. The dashboard can include interactive charts and maps that allow users to drill down into specific states and companies.
 
 Overall, the data presented above provides valuable insights into the companies operating in the region and can help businesses, investors, and policymakers make informed decisions.
+
+
+Data Reference: https://data.gov.in/ - Open Government Data Platform India
